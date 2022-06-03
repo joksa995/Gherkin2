@@ -1,1 +1,1 @@
-# Gherkin2
+Add first gherkin file to repository
