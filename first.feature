@@ -7,3 +7,4 @@ When I click
 Then I go to STORE
 But I should  go to cart
 
+End
